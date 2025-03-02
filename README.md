@@ -23,7 +23,7 @@ Streamlit-based recommendation system for users.
 
 ### **1. Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/Weekend-Travel-Ranker.git
+git clone https://github.com/JoyBiswasgithub/Weekend-Travel-Ranker.git
 cd Weekend-Travel-Ranker
 ```
 ### **2.  Install Dependencies**  
