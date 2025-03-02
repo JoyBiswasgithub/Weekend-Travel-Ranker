@@ -5,14 +5,17 @@
 
 # File detalis
 
-**dataProcessing.ipynb**
+**dataProcessing.ipynb** 
+
 Work flow
 Data cleaning, analysis, visualization, and feature engineering.
 
 **rankAlgo.py**
+
 Core ranking algorithm for travel destinations
 
 **app.py**
+
 Streamlit-based recommendation system for users.
 
 
