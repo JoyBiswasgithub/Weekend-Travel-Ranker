@@ -1,6 +1,6 @@
 # 🏆 Weekend Travel Ranker  
 
-📍 **A data-driven system to rank weekend travel destinations based on city input.**  
+**A data-driven system to rank weekend travel destinations based on city input.**  
 ---
 
 # File detalis
