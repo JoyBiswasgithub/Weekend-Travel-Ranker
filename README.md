@@ -34,3 +34,6 @@ cd Weekend-Travel-Ranker
 ```bash
   streamlit run app.py
 ```
+
+### **Live**
+https://weekend-travel-ranker.streamlit.app/
