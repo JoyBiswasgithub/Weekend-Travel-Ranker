@@ -7,7 +7,7 @@
 
 **dataProcessing.ipynb** 
 
-Work flow
+Work flow,
 Data cleaning, analysis, visualization, and feature engineering.
 
 **rankAlgo.py**
